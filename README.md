@@ -10,7 +10,7 @@
 
 
 
-- 📫 How to reach me: <a href="rkfobia.blogspot.com"> My Blog </a>
+- 📫 How to reach me: <a href="https://rkfobia.blogspot.com/?m=1"> My Blog </a>
 
 
 
