@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on <b>.net</b>
+
 - 🌱 I’m currently learning Java and .net
 
 
