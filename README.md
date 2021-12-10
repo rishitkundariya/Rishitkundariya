@@ -5,8 +5,8 @@
 
 
 
-
-- 🌱 I’m currently learning Java and .net
+ 
+- 🌱 I’m currently learning ASP.net core & MS SQL.
 
 
 
