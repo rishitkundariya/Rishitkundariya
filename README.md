@@ -6,7 +6,7 @@
 
 
  
-- 🌱 I’m currently learning ASP.net core & MS SQL.
+- 🌱 I’m currently Working on ASP.net core & MS SQL.
 
 
 
